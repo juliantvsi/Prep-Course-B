@@ -1,0 +1,22 @@
+Consigna: En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* Variables
+* Strings
+* Booleans
+* Undefined
+* Nullss
+* Operadores
+* `==` vs. `===`
+
+Variables: Una variable es un contenedor donde se aloja un dato o una informacion.
+
+Strings: Es una cadena de letras y se escriben entre comillas.
+
+Booleans: Un booleano es un dato que puede ser verdadero o falso.
+
+Null: Null es un dato que no existe.
+
+Operadores: Los operadores son simbolos que se usan para hacer 
+operaciones matematicas, como sumar, restar, dividir, etc.
+
+== vs ===: El == se usa para comparar si dos cosas son iguales, por ejemplo si comparamos 21 y "21", devuelve que es verdadero. === es para comparar que dos cosas sean exactamente iguales, en este caso 21 y "21" daria falso porque uno es un numero, y el otro un string.
